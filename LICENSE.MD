@@ -10,7 +10,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 > git clone https://github.com/nduykhanh/react-router-redux-form.git
-> cd react-redux-book-list
+> cd react-router-redux-form
 > npm install
 > npm start
 ```
